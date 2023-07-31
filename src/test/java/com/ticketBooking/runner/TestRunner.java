@@ -27,7 +27,7 @@ public class TestRunner {
         Reporter.setSystemInfo("Machine", "Windows 10" + "64 Bit");
         Reporter.setSystemInfo("Selenium", "3.141.59");
         Reporter.setSystemInfo("Maven", "3.5.9");
-        Reporter.setSystemInfo("Java Version", "1.8.0_151");
+        Reporter.setSystemInfo("Java Version", "11.0.20");
     }
 
 }

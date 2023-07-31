@@ -1,4 +1,0 @@
-2023-07-31 12:07:18 INFO  FlightsPage :26 - Get pageTitle text [[ChromeDriver: chrome on WINDOWS (7a64a9e7b9262e235c343b123e0cdee1)] -> xpath: //h1[contains(text(),'Compare and book flights with ease')]]
-2023-07-31 12:07:318 INFO  CheckoutSeatPage :42 - get Seat No [[ChromeDriver: chrome on WINDOWS (7a64a9e7b9262e235c343b123e0cdee1)] -> xpath: //*[@id="basiclayout"]/div/div[2]/div/div[2]/div[2]/div/div/div[1]/div/div/div[2]/div[1]/button/div/div/div[2]/div/div/div/span/span]
-2023-07-31 12:07:905 INFO  CheckoutPaxPage :28 - get Page title text [[ChromeDriver: chrome on WINDOWS (7a64a9e7b9262e235c343b123e0cdee1)] -> xpath: //*[@id="basiclayout"]/div/div[2]/div/div[2]/div[1]/div/h2]
-2023-07-31 12:07:679 INFO  PaymentPage :25 - Get pageTitle text [[ChromeDriver: chrome on WINDOWS (7a64a9e7b9262e235c343b123e0cdee1)] -> xpath: //h2[contains(text(),'Check and pay')]]
